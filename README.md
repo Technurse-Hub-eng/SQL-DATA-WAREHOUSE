@@ -36,4 +36,4 @@ All you need to do is include the original copyright notice.
 
 ## 👤 About Me
 
-Hi there, I’m **Obinna Agunanna** - a **Data Analyst**, **Registered Nurse**, and Tech Creator who specializes in Creating educational tech content via **Technurse Hub**. I’m passionate about using data, technology, and innovation to improve healthcare systems and create meaningful digital solutions.
+Hi there, I’m **Obinna Agunanna** - a **Data Analyst**, **Registered Nurse**, and **Tech Creator** who specializes in Creating educational tech content via **Technurse Hub**. I’m passionate about using data, technology, and innovation to improve healthcare systems and create meaningful digital solutions.
